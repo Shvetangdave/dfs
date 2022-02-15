@@ -1,0 +1,52 @@
+body{
+    background-image: url("https://t3.ftcdn.net/jpg/02/66/43/24/360_F_266432466_cES81ryd1SVxIL5HrO6J7r7JMqiIgCg8.jpg");
+background-position: center;
+background-size: cover;
+text-align: center;}
+
+#navt{
+  
+    height:100px;
+    width:200px;
+}
+
+
+#alphab{
+  
+  height:100px;
+  width:200px;
+}
+
+
+#colorss{
+  
+  height:100px;
+  width:200px;
+}
+
+#readings{
+  
+  height:100px;
+  width:200px;
+}
+
+#testnn{
+  
+  height:100px;
+  width:200px;
+}
+    
+
+
+.copy_right_footer
+{
+  position: fixed;
+  color: dimgray;
+  bottom:0;
+  width:100%;
+  font-size: 18px;
+  background-color:gold;
+  line-height: 3;
+  text-align:center;
+  text-shadow: 5px 5px 5px rgb(rgb(250, 243, 243), rgb(229, 236, 229), rgb(215, 215, 230));
+}
